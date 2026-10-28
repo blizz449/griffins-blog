@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Griffins Kipkirui - My Ambitions</title>
+  <style>
+    body {
+      font-family: 'Lora', serif;
+      margin: 0;
+      padding: 0;
+      background: #fff8f0;
+      color: #333;
+    }
+    header {
+      background: #f4a261;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    nav {
+      background: #e76f51;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #e76f51;
+    }
+    footer {
+      background: #264653;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Journey</h1>
+    <p>Griffins Kipkirui | Born 2006 | Ambitious Young Man</p>
+  </header>
+
+  <nav>
+    <a href="#about">About Me</a>
+    <a href="#blog">Blog</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hello, I’m Griffins Kipkirui. Born in 2006, I am an ambitious young man with big dreams and the determination to achieve them. This blog is my space to share my journey, my goals, and the lessons I learn along the way. I believe every step forward brings me closer to the future I envision.</p>
+  </section>
+
+  <section id="blog">
+    <h2>My Blog</h2>
+    <p>Here I’ll share posts about my ambitions, inspirations, and progress. Stay tuned for updates on my journey!</p>
+  </section>
+
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <p>A collection of photos, quotes, and milestones that inspire me.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>If you’d like to reach out, you can email me at: <strong>griffins@example.com</strong></p>
+  </section>
+
+  <footer>
+    <p>© 2026 Griffins Kipkirui | Built with passion and ambition</p>
+  </footer>
+</body>
+</html>
